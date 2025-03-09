@@ -1,4 +1,4 @@
-
+# Analisi del testo di Time
 This is the only track on the album that credits all 4 members of the band. It’s about how time can slip by, but many people do not realize it until it is too late. Roger Waters got the idea when he realized he was no longer preparing for anything in life, but was right in the middle of it at the age of 29.
 
 > The idea in “Time” is a similar exhortation to “Breathe.”  To be here now, this is it. Make the most of it.
